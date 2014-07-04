@@ -14,7 +14,7 @@ Useful Python-related websites and newsletters.
 - `Pycoder's Weekly`_ - Your weekly dose of all things Python
 
 
-.. _The Python Tutoria: http://docs.python.org/tutorial/index.html
+.. _The Python Tutorial: http://docs.python.org/tutorial/index.html
 .. _python-guide: http://docs.python-guide.org/
 .. _Pycoder's Weekly: http://pycoders.com/
 
@@ -27,7 +27,7 @@ Fantastic books and e-books.
 - `Learn Python The Hard Way`_ - An excellent beginner programmer’s guide to Python
 - `Dive Into Python`_ - Python from novice to pro
 - `Pro Python`_ - Expert's Voice in Open Source
-- `Expert Python Programming`_ - Deals with best practices in programming Python and is focused on the more advanced crowd
+- `Expert Python Programming`_ - Focused on the more advanced crowd
 
 
 .. _Learn Python The Hard Way: http://learnpythonthehardway.org/book/
