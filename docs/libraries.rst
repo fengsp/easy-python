@@ -350,9 +350,11 @@ NoSQL
 
 Libraries for working with "NoSQL" backends.
 
+- `redis-py`_ - Redis Python Client
 - `PyMongo`_ - Python distribution containing tools for working with MongoDB
 
 
+.. _redis-py: https://github.com/andymccurdy/redis-py
 .. _PyMongo: http://api.mongodb.org/python/current/
 
 
