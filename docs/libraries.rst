@@ -130,11 +130,13 @@ Content management platforms.
 - `django CMS`_ - The easy-to-use and developer-friendly CMS
 - `wagtail`_ - A new Django content management system
 - `mezzanine`_ - A content management platform built using the Django framework
+- `Plone`_ - A robust, secure, entreprise level CMS
 
 
 .. _django CMS: https://github.com/divio/django-cms
 .. _wagtail: http://wagtail.io/
 .. _mezzanine: http://mezzanine.jupo.org/
+.. _Plone: http://plone.org
 
 
 HTTP and Web Crawling
