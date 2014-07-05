@@ -459,7 +459,7 @@ Libraries for caching data.
 Deployment
 ----------
 
-Libraries for IT automation.
+Libraries for deployment and IT automation.
 
 - `supervisor`_ - Supervisor process control system for UNIX
 - `Gunicorn`_ - A Python WSGI HTTP Server for UNIX
