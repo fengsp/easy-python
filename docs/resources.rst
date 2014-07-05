@@ -12,7 +12,7 @@ Useful Python-related websites and newsletters.
 - `The Python Tutorial`_ - This is the official tutorial
 - `python-guide`_ - Python best practices guidebook, written for Humans
 - `Pycoder's Weekly`_ - Your weekly dose of all things Python
-- `Python Weekly`_ - Weekly roundup of news, articles, software, events, tools and libraries
+- `Python Weekly`_ - Staying up to date with all the exciting things
 
 
 .. _The Python Tutorial: http://docs.python.org/tutorial/index.html
