@@ -396,7 +396,7 @@ Authentication
 
 Libraries for implementing authentications schemes.
 
-- `oauthlib`_ - An abstract interface to creating OAuth clients and servers
+- `oauthlib`_ - A generic implementation of the OAuth request-signing logic
 - `rauth`_ - A Python library for OAuth 1.0/a, 2.0, and Ofly
 
 
