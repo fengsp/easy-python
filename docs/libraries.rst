@@ -396,11 +396,11 @@ Authentication
 
 Libraries for implementing authentications schemes.
 
-- `python-oauth2`_ - An abstract interface to creating OAuth clients and servers
+- `oauthlib`_ - An abstract interface to creating OAuth clients and servers
 - `rauth`_ - A Python library for OAuth 1.0/a, 2.0, and Ofly
 
 
-.. _python-oauth2: https://github.com/simplegeo/python-oauth2
+.. _oauthlib: https://github.com/idan/oauthlib
 .. _rauth: https://rauth.readthedocs.org/
 
 
