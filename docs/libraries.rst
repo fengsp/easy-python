@@ -461,11 +461,15 @@ Deployment
 
 Libraries for IT automation.
 
+- `supervisor`_ - Supervisor process control system for UNIX
+- `Gunicorn`_ - A Python WSGI HTTP Server for UNIX
 - `ansible`_ - A radically simple IT automation platform
 - `salt`_ - Infrastructure automation and management system
 - `fabric`_ - Simple, Pythonic remote execution and deployment
 
 
+.. _supervisor: https://github.com/Supervisor/supervisor
+.. _Gunicorn: http://gunicorn.org/
 .. _ansible: http://www.ansible.com/home
 .. _salt: https://github.com/saltstack/salt
 .. _fabric: http://www.fabfile.org/
@@ -478,8 +482,6 @@ Useful libraries or tools that don't fit in the categories above.
 
 - `virtualenv`_ - Virtual Python Environment builder
 - `Blinker`_ - Fast & simple object-to-object and broadcast signaling
-- `supervisor`_ - Supervisor process control system for UNIX
-- `Gunicorn`_ - A Python WSGI HTTP Server for UNIX
 - `sentry`_ - A realtime, platform-agnostic error logging and aggregation platform
 - `sshuttle`_ - Transparent proxy server that works as a poor man's VPN
 - `pandas`_ - Flexible and powerful data analysis / manipulation library
@@ -495,8 +497,6 @@ Useful libraries or tools that don't fit in the categories above.
 
 .. _virtualenv: https://github.com/pypa/virtualenv
 .. _Blinker: http://pythonhosted.org/blinker/
-.. _supervisor: https://github.com/Supervisor/supervisor
-.. _Gunicorn: http://gunicorn.org/
 .. _sentry: https://github.com/getsentry/sentry
 .. _sshuttle: https://github.com/apenwarr/sshuttle
 .. _pandas: http://pandas.pydata.org/
