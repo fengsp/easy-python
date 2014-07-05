@@ -213,6 +213,7 @@ Libraries for testing codebases and generating test data.
 
 - `tox`_ - Standardize testing in Python
 - `nose`_ - nose is nicer testing for python
+- `pytest`_ - A mature full-featured Python testing tool
 - `Huxley`_ - A test-like system for catching visual regressions in Web applications
 - `faker`_ - A Python package that generates fake data for you
 - `sqlmap`_ - Automatic SQL injection and database takeover tool
@@ -221,6 +222,7 @@ Libraries for testing codebases and generating test data.
 
 .. _tox: http://tox.readthedocs.org/
 .. _nose: http://nose.readthedocs.org/
+.. _pytest: http://pytest.org/
 .. _Huxley: https://github.com/facebook/huxley
 .. _faker: http://www.joke2k.net/faker/
 .. _sqlmap: http://sqlmap.org/
