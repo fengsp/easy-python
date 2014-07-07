@@ -186,6 +186,17 @@ Libraries for file manipulation.
 .. _q: https://github.com/harelba/q
 
 
+Feeds
+-----
+
+Libraries for feeds parsing.
+
+- `feedparser`_ - Parse Atom and RSS feeds in Python
+
+
+.. _feedparser: https://pythonhosted.org/feedparser/
+
+
 Dependency Injection
 --------------------
 
