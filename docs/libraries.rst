@@ -426,9 +426,11 @@ Markup
 
 Libraries for working with markup.
 
+- `Docutils`_ - Documentation Utilities
 - `python-markdown2`_ -  A fast and complete implementation of Markdown
 
 
+.. _Docutils: http://docutils.sourceforge.net/
 .. _python-markdown2: https://github.com/trentm/python-markdown2
 
 
