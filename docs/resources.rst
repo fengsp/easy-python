@@ -31,6 +31,7 @@ Fantastic books and e-books.
 - `Pro Python`_ - Expert's Voice in Open Source
 - `Expert Python Programming`_ - Focused on the more advanced crowd
 - `Full Stack Python`_ - Web development and deployment resources
+- `PythonBooks`_ - Directory of free Python ebooks
 
 
 .. _Learn Python The Hard Way: http://learnpythonthehardway.org/book/
@@ -38,6 +39,7 @@ Fantastic books and e-books.
 .. _Pro Python: http://propython.com/
 .. _Expert Python Programming: http://www.packtpub.com/expert-python-programming/book
 .. _Full Stack Python: http://www.fullstackpython.com/
+.. _PythonBooks: http://pythonbooks.revolunet.com/
 
 
 Blogs
