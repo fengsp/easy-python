@@ -40,6 +40,17 @@ Fantastic books and e-books.
 .. _Full Stack Python: http://www.fullstackpython.com/
 
 
+Blogs
+-----
+
+Excellent writings and thoughts.
+
+- `Armin Ronacher's Thoughts and Writings`_ - by Armin Ronacher
+
+
+.. _Armin Ronacher's Thoughts and Writings: http://lucumr.pocoo.org/
+
+
 Videos
 ------
 
