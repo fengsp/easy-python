@@ -9,9 +9,11 @@ Package Management
 
 Libraries for package and dependency management.
 
+- `Setuptools`_ - a fully-featured library designed to facilitate packaging Python projects
 - `pip`_ - The PyPA recommended tool for installing Python packages
 
 
+.. _Setuptools: http://pythonhosted.org/setuptools/
 .. _pip: https://github.com/pypa/pip
 
 
