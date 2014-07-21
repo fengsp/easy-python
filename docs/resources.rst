@@ -59,6 +59,8 @@ Videos
 Great talks.
 
 - `pyvideo`_ - Python related video indexed so you can find it
+- `py-must-watch`_ - Must-watch videos about Python
 
 
 .. _pyvideo: http://pyvideo.org/
+.. _py-must-watch: https://github.com/s16h/py-must-watch
